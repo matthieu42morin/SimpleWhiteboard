@@ -1,0 +1,23 @@
+{
+    "background_color": "#ffffff",
+    "description": "A simple whiteboard for drawing and sharing ideas",
+    "dir": "ltr",
+    "display": "fullscreen",
+    "name": "simplewhiteboard",
+    "orientation": "any",
+    "scope": "/",
+    "icons": [
+        {
+          "src": "/favicon.png",
+          "purpose": "any",
+          "type": "png",
+          "sizes": "1024x1024"
+        },
+        {
+            "src": "/favicon64.png",
+            "purpose": "any",
+            "type": "png",
+            "sizes": "64x64"
+          },
+    ]
+}
