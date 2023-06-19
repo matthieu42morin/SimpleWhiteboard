@@ -1,3 +1,227 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.primary-yellow {
+	color: #ffbf00;
+}
+
+.yellow-secondary {
+	color: #ffe066;
+}
+
+.blue-dark {
+	color: #110042;
+}
+
+.blue-primary {
+	color: #4263eb;
+}
+
+.blue-light {
+	color: #96ddff;
+}
+
+.black {
+	color: #000000;
+}
+
+.white {
+	color: #ffffff;
+}
+
+.off-white {
+	color: #f7f7f7;
+}
+
+.grey-dark {
+	color: #8e8e93;
+}
+
+.grey-primary {
+	color: #c7c7cc;
+}
+
+.grey-light {
+	color: #e5e5ea;
+}
+
+.display-1 {
+	/* Display Large - Source Sans Pro/Regular 64/72 . 0 */
+
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 64px;
+	line-height: 72px; /* or 112% */
+	letter-spacing: -0.25px;
+}
+
+.display-2 {
+	/* Display Medium - Source Sans Pro/Regular 48/56 . 0 */
+
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 48px;
+	line-height: 56px; /* or 117% */
+}
+
+.display-3 {
+	/* Display Small - Source Sans Pro/Regular 40/48 . 0 */
+
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 40px;
+	line-height: 48px; /* or 120% */
+}
+
+.h-1 {
+	/* Headline Large - Source Sans Pro/Regular 32/40 . 0 */
+
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 32px;
+	line-height: 40px; /* identical to box height, or 125% */
+}
+
+.h-2 {
+	/* Headline Medium - Source Sans Pro/Regular 28/36 . 0 */
+
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 28px;
+	line-height: 36px; /* identical to box height, or 129% */
+}
+
+.h-3 {
+	/* Headline Small - Source Sans Pro/Regular 24/32 . 0 */
+
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 32px; /* identical to box height, or 133% */
+}
+
+.title-1 {
+	/* Title Large - Source Sans Pro/Medium 22/28 . +0.4 */
+
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 30px; /* identical to box height, or 125% */
+	letter-spacing: 0.5px;
+}
+
+.title-2 {
+	/* Title Medium - Source Sans Pro/Medium 16/24 . +0.16 */
+	
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 24px; /* identical to box height, or 150% */
+	letter-spacing: 0.2px;
+}
+
+.title-3 {
+	/* Title Small - Source Sans Pro/Medium 14/20 . +0.12 */
+
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 20px; /* identical to box height, or 143% */
+	letter-spacing: 0.16px;
+}
+
+.label-1 {
+	/* Label Large - Source Sans Pro/Medium 16/24 . +0.2 */
+
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 28px; /* identical to box height, or 156% */
+	letter-spacing: 0.2px;
+}
+
+.label-2 {
+	/* Label Medium - Source Sans Pro/Medium 14/20 . +0.4 */
+
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 24px; /* identical to box height, or 150% */
+	letter-spacing: 0.4px;
+}
+
+.label-3 {
+	/* Label Small - Source Sans Pro/Medium 12/16 . +0.6 */
+
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 20px; /* identical to box height, or 143% */
+	letter-spacing: 0.6px;
+}
+
+.body-1 {
+	/* Body Large - Source Sans Pro/Regular 16/24 . 0 */
+
+	
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px; /* identical to box height, or 150% */
+}
+
+.body-2 {
+	/* Body Medium - Source Sans Pro/Regular 14/20 . 0 */
+
+	
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 20px; /* identical to box height, or 143% */
+	letter-spacing: 0.08px;
+}
+
+.body-3 {
+	/* Body Small - Source Sans Pro/Regular 12/16 . 0 */
+
+	
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 16px; /* identical to box height, or 133% */
+	letter-spacing: 0.2px;
+}
+
+.overline {
+	/* Overline - Source Sans Pro/Regular 12/16 . 0 */
+
+	
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 16px; /* identical to box height, or 133% */
+	letter-spacing: 0.8px;
+	text-transform: uppercase;
+}
+
+.caption {
+	/* Caption - Source Sans Pro/Regular 12/16 . 0 */
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 16px; /* identical to box height, or 133% */
+	letter-spacing: 0.5px;
+}

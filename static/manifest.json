@@ -3,7 +3,7 @@
     "description": "A simple whiteboard for drawing and sharing ideas",
     "dir": "ltr",
     "display": "fullscreen",
-    "name": "simplewhiteboard",
+    "name": "Simplewhiteboard",
     "orientation": "any",
     "scope": "/",
     "icons": [
@@ -18,6 +18,6 @@
             "purpose": "any",
             "type": "png",
             "sizes": "64x64"
-          },
+          }
     ]
 }

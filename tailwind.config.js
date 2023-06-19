@@ -23,6 +23,11 @@ module.exports = {
 			}
 		},
 		colors: {
+			'orange': '#ff7849',
+			'green-dark': '#49AB81',
+			'green-light': '#6FCB9F',
+			'red-dark': '#e61414',
+			'red-light': '#FF647E',
 			'primary-yellow': '#FFBF00',
 			'yellow-secondary': '#FFE066',
 			'blue-dark': '#110042',
